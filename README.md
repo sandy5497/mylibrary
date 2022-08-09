@@ -29,7 +29,7 @@ allprojects {
 Add library to dependencies
 ```gradle
 dependencies {
-    implementation 'com.github.mik3y:usb-serial-for-android:3.4.6'
+    implementation 'com.com.github.sandy5497:mylibrary:V1.0.0'
 }
 ```
 
